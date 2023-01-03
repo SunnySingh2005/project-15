@@ -1,0 +1,231 @@
+body{
+    background-color: black;
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px ;
+}
+.logo{
+    font-size: 30px;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    gap:80px ; 
+    align-items: center;
+    padding-right: 80px;
+}
+
+
+.body-content{
+    display: flex;
+    justify-content: space-around;
+}
+img[alt="pic"]{
+    width: 350px;
+    height: 350px;
+    
+}
+.content{
+   margin-top: 80px;
+   margin-right: 550px;
+
+}
+.pra{
+    color: red;
+    font-size: 20px;
+    margin: 0px;
+}
+.pra-1{
+    font-size: 30px;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+}
+.pra-2{
+    color: aliceblue;
+}
+button{
+    background-color: red;
+    color: white;
+    padding: 10px 10px;
+    font-size: 18px;
+}
+
+
+
+.body-content-1{
+    background: linear-gradient(
+          to right,
+    #1B1B1B 50%,
+    black 50%
+    );
+    /* padding: 50px 10px; */
+    padding: 100px 10px;
+    
+}
+
+
+.cards{
+        background: linear-gradient(
+            to right,
+        #1B1B1B 50%,
+        black 50%
+    );
+    display: flex;
+    padding: 50px 250px;
+    align-items: center;
+   
+}
+.card-1{
+  margin: 30px 30px;
+  background-color: rgb(46, 45, 45);
+  padding: 10px 20px; 
+  margin: 10px;    
+}
+.card-2{
+    margin: 30px 30px;
+    background-color: rgb(46, 45, 45);
+    padding: 10px 20px; 
+    margin: 10px;    
+  }
+  .card-3{
+    margin: 30px 30px;
+    background-color: rgb(46, 45, 45);
+    padding: 10px 20px; 
+    margin: 10px;    
+  }
+.pra-2{
+    font-size: 20px;
+    
+}
+.cardss-2{
+    background-color: red;
+    padding: 20px 10px;
+    margin-top: 10px;
+    height: 210px;
+    width: 310px;
+    align-items: center;
+}
+.para-1{
+    color: red;
+}
+
+
+.cards-4{
+    display: flex;
+    align-items: center;
+    padding: 0px;
+    justify-content: space-around;
+}
+.card-4{
+    margin: 0px;
+    /* padding-left: 100px; */
+    margin-right: 100px;
+}
+.word{
+    font-size: 50px;
+    color: red;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.about{
+    font-size: 20px;
+   
+}
+.card-44{
+    padding: 10px 5px;
+
+}
+   
+    
+.card-about{
+  margin: 5px 5px;
+   /* background-color: rgb(27, 27, 27); */
+   background-color: rgb(46, 45, 45);
+   /* height: 200px; */
+   width: 300px;
+   align-items: center;
+   padding-bottom: 20px;
+}
+
+.about-us{
+    color: red;
+    font-size: 50px;
+    margin: 10px 80px;
+    padding: 10px 40px;
+}
+.about-pra{
+    font-size: 20px;
+    margin: 0px 80px;
+    /* padding:10px 5px ; */
+}
+
+.between{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.butto{
+    padding: 10px 50px;
+    font-size: 20px;
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    padding:50px 200px;
+}
+.im{
+    padding: 30px 40px;
+    background-color:rgb(27, 27, 27);
+    margin: 20px 10px; 
+
+}
+
+img[alt="yaar"]{
+    height: 300px;
+    width: 100%;
+}
+.about-us1{
+    color: red;
+}
+
+
+
+.between-1{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px 50px;
+    align-items: center;
+    background-color: rgb(27, 27, 27);
+    margin: 100px 100px;
+   
+
+}
+.bett-1{
+    font-size: 50px;
+    
+}
+.butto-1{
+    padding: 10px 50px;
+    font-size: 20px;
+    border: 0px;
+}
+.nav-1{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    font-size: 20px;
+}
+.logo-1{
+    font-size: 30px;
+    color: red;
+    padding: 50px 100px;
+    background-color: rgb(20, 20, 20);
+    margin-top: 20px;
+}
